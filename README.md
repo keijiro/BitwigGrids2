@@ -1,4 +1,4 @@
-BitWigGrids2
+BitwigGrids2
 ------------
 
 Generative music pieces created with [Bitwig Grid].
