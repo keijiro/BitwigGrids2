@@ -1,9 +1,9 @@
 BitWigGrids2
 ------------
 
-Generative music pieces created with [BitWig Grid].
+Generative music pieces created with [Bitwig Grid].
 
-[BitWig Grid]: https://www.bitwig.com/the-grid/
+[Bitwig Grid]: https://www.bitwig.com/the-grid/
 
 This repository contains the following songs as samples:
 
